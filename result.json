@@ -1,0 +1,53 @@
+{
+  "schema": "classroom50/result/v1",
+  "classroom": "csce-313-fa26",
+  "assignment": "activity-1",
+  "assignment_type": "individual",
+  "owner": "u",
+  "submission": "t",
+  "commit": "https://c",
+  "release": "https://r",
+  "review": "https://v",
+  "datetime": "2026-09-02T15:01:36Z",
+  "graded_at": "2026-09-02T15:01:36Z",
+  "score": 10,
+  "max-score": 100,
+  "tests": [
+    {
+      "test-name": "Part B - spawn.cpp compiles",
+      "passed": true,
+      "score": 10,
+      "max-score": 10
+    },
+    {
+      "test-name": "Part B - four workers",
+      "passed": false,
+      "score": 0,
+      "max-score": 20
+    },
+    {
+      "test-name": "Part B - worker lines correct",
+      "passed": false,
+      "score": 0,
+      "max-score": 15
+    },
+    {
+      "test-name": "Part B - exit codes 0..3 reaped",
+      "passed": false,
+      "score": 0,
+      "max-score": 20
+    },
+    {
+      "test-name": "Part B - reaped 4",
+      "passed": false,
+      "score": 0,
+      "max-score": 10
+    },
+    {
+      "test-name": "Part A - GDB transcript",
+      "passed": false,
+      "score": 0,
+      "max-score": 25
+    }
+  ]
+}

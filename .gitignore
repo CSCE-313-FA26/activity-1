@@ -1,0 +1,4 @@
+# Build output - `make` regenerates these.
+observe
+spawn
+*.o
