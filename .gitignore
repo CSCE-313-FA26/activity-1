@@ -2,3 +2,7 @@
 observe
 spawn
 *.o
+
+# Autograder output, written into the checkout when the workflow grades a push.
+result.json
+release-body.md
